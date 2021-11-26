@@ -1,3 +1,3 @@
-# netia.com.tr
- promotion web sites 
- www.netia.com.tr
+# netia.com.tr 
+Promotion web sites 
+www.netia.com.tr
